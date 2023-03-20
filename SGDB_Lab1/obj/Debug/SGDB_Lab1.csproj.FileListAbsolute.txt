@@ -1,0 +1,10 @@
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\bin\Debug\SGDB_Lab1.exe.config
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\bin\Debug\SGDB_Lab1.exe
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\bin\Debug\SGDB_Lab1.pdb
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.csproj.AssemblyReference.cache
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.Form1.resources
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.Properties.Resources.resources
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.csproj.GenerateResource.cache
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.exe
+C:\Users\Razvan\source\repos\SGDB_Lab1\SGDB_Lab1\obj\Debug\SGDB_Lab1.pdb
